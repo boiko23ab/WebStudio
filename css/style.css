@@ -283,19 +283,19 @@ h1 {
 
 .what-we-do>div>div:nth-child(1) {
 
-    background: url(/img/img\ \(1\).jpg) center/cover;
+    background: url(img/img-1.jpg) center/cover;
 
 }
 
 .what-we-do>div>div:nth-child(2) {
 
-    background: url(/img/img\ \(5\).jpg) center/cover;
+    background: url(img/img-5.jpg) center/cover;
 
 }
 
 .what-we-do>div>div:nth-child(3) {
 
-    background: url(/img/img\ \(6\).jpg) center/cover;
+    background: url(img/img-6.jpg) center/cover;
 
 }
 
